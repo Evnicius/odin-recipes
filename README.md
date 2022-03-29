@@ -1,2 +1,2 @@
 # odin-recipes
-Odin Recipes of the foundation recipe lesson
+Foundation recipes lesson will teach how to build a basic recipe website.
